@@ -25,9 +25,7 @@ Here are some of the technologies I've been working with:
 I built a fun interactive tool for Formula 1 fans! Compare the stats of your favorite drivers and see how they stack up against each other.
 
 <div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=Screenshot+of+CompareF1" alt="CompareF1 Screenshot" width="80%">
-  </a>
-  <br>
+      <br>
   <a href="https://comparef1.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/Launch%20App-FF1801?style=for-the-badge&logo=formula1&logoColor=white" alt="Launch App">
   </a>
