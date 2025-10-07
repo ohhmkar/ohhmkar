@@ -25,12 +25,6 @@ Here are some of the technologies I've been working with:
 I built a fun interactive tool for Formula 1 fans! Compare the stats of your favorite drivers and see how they stack up against each other.
 
 <div align="center">
-  <a href="https://comparef1.streamlit.app" target="_blank">
-    <!-- 
-      IMPORTANT: Replace this placeholder with an actual screenshot of your app.
-      You can upload the screenshot to your 'ohhmkar' repository and link to it like this:
-      https://raw.githubusercontent.com/ohhmkar/ohhmkar/main/comparef1-screenshot.png 
-    -->
     <img src="https://via.placeholder.com/800x400.png?text=Screenshot+of+CompareF1" alt="CompareF1 Screenshot" width="80%">
   </a>
   <br>
