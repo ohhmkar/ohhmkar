@@ -31,15 +31,6 @@ I built a fun interactive tool for Formula 1 fans! Compare the stats of your fav
   </a>
 </div>
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohhmkar&show_icons=true&theme=radical" alt="ohhmkar's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhmkar&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
 ## 🏆 Competitive Programming
 
 When I'm not building projects, I enjoy honing my problem-solving skills on these platforms:
