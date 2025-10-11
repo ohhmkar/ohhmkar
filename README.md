@@ -1,7 +1,5 @@
 # Hi there, I'm Omkar 👋
 
-I'm a passionate and creative web developer with a keen interest in building beautiful and functional user interfaces. I enjoy bringing ideas to life in the browser and am always looking for new challenges and opportunities to learn and grow.
-
 <a href="https://www.linkedin.com/in/omkar-gajare-5aa1b1387/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
