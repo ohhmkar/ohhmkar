@@ -1,23 +1,16 @@
 # Hi there, I'm Omkar
 
-```text
-%%%%%%%%%%%%%%%%%%%%%%%SSSSSSS%%%?%    omkar@gajare
-SS%SS%%%%%%%%%%%SSS%%SSSSSSSSS%%%%%    ------------
-SS%S%%SS%%%%%%%%S%S%%%SSSSSSSSSS%?*    OS: ....... macOS, windows
-SS%S%SSS??SSSSSSS%SSS%SSSSSSSSSS%??    IDE: ...... nvim, vscode
-SSSSSSSS%SS%%%%%%%%%%%SSSSSSS%%%%%%    Langs: .... Go, Python, Typescript
-%SSSSSSS%%%%%%%%?%%%%%%SS%SSS%?????    
-%SSSSSSS%%%%%%%%?%%%%%SSSSSS#S%%??*    -- Contact -------------------------
-%%%%SSSS%%%%%%SS%?%?%%%SSSSSS##SS%%    LinkedIn: . linkedin.com/in/omkar-gajare-5aa1b1387
-%%%%%%%%%%%%%S#?%?????%#SSSS%SSS%SS    Instagram:. instagram.com/omkaragajare
-%%%%%%%%%%%%%%S%???%%SSS%SS%%%SS%S%    LeetCode: . leetcode.com/omkargajare
-??%%%%%%%%%%%%??????*%SSSSSSSS%%???    Codeforces: codeforces.com/profile/ohhmkar
-%%%%%%S%%%%%%%??*????%%??%??S?**???    
-%%%%%%S%%S%%%%???????%%????%%%?????    
-*?%?%%%?%%%???%%%?%%?????%%?%%????%    
-?SS%%SS%%%%%%?%%%???*%%???%%?%??%%%    
-SSSSSSSS%%%%%%%?%**++?%**?%%??%%%%%    
-##SS##SSS%%%%%%%%+;;+**++*??*??????    
-```
+<a href="https://www.linkedin.com/in/omkar-gajare-5aa1b1387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/omkaragajare/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+  <a href="https://leetcode.com/omkargajare/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/ohhmkar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 
 ---
